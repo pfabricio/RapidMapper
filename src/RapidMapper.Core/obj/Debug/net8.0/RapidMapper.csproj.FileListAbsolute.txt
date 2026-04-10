@@ -1,0 +1,12 @@
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\bin\Debug\net8.0\RapidMapper.deps.json
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\bin\Debug\net8.0\RapidMapper.dll
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\bin\Debug\net8.0\RapidMapper.pdb
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\obj\Debug\net8.0\RapidMapper.csproj.AssemblyReference.cache
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\obj\Debug\net8.0\RapidMapper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\obj\Debug\net8.0\RapidMapper.AssemblyInfoInputs.cache
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\obj\Debug\net8.0\RapidMapper.AssemblyInfo.cs
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\obj\Debug\net8.0\RapidMapper.csproj.CoreCompileInputs.cache
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\obj\Debug\net8.0\RapidMapper.dll
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\obj\Debug\net8.0\refint\RapidMapper.dll
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\obj\Debug\net8.0\RapidMapper.pdb
+D:\Programas Visuais\RapidMapper\src\RapidMapper.Core\obj\Debug\net8.0\ref\RapidMapper.dll
