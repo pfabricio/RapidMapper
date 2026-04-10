@@ -2,7 +2,9 @@
 # Build folders
 # =========================
 bin/
+bin/Debug
 obj/
+obj/Debug
 out/
 artifacts/
 
