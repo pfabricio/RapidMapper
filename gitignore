@@ -1,0 +1,142 @@
+# =========================
+# Build folders
+# =========================
+bin/
+obj/
+out/
+artifacts/
+
+# =========================
+# User-specific files
+# =========================
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.rsuser
+
+# =========================
+# Visual Studio
+# =========================
+.vs/
+*.vsp
+*.vspx
+*.sap
+
+# =========================
+# Rider / JetBrains
+# =========================
+.idea/
+*.sln.iml
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# Logs
+# =========================
+*.log
+logs/
+
+# =========================
+# NuGet
+# =========================
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.assets.json
+
+# =========================
+# Test Results
+# =========================
+TestResults/
+*.trx
+*.coverage
+*.coveragexml
+
+# =========================
+# Publish output
+# =========================
+publish/
+wwwroot/dist/
+wwwroot/build/
+
+# =========================
+# ASP.NET Scaffolding
+# =========================
+ScaffoldingReadMe.txt
+
+# =========================
+# Environment files
+# =========================
+.env
+.env.*
+appsettings.Development.json
+appsettings.Local.json
+secrets.json
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Azure
+# =========================
+PublishProfiles/
+*.azurePubxml
+
+# =========================
+# Docker
+# =========================
+docker-compose.override.yml
+
+# =========================
+# Resharper
+# =========================
+_ReSharper*/
+*.DotSettings.user
+
+# =========================
+# Backup files
+# =========================
+*.bak
+*.tmp
+*.temp
+*.swp
+
+# =========================
+# Generated files
+# =========================
+Generated_Code/
+
+# =========================
+# EF Core migrations snapshot backups
+# =========================
+*Migrations/*Designer.cs
+*Migrations/*Snapshot.cs
+
+# =========================
+# Node (caso tenha frontend)
+# =========================
+node_modules/
+dist/
+build/
+
+# =========================
+# Coverage
+# =========================
+coverage/
+*.lcov
+
+# =========================
+# Certificates
+# =========================
+*.pfx
+*.pem
+*.key
